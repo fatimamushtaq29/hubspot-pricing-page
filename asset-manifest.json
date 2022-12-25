@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hubspot-pricing-page/static/css/main.c628bda5.css",
+    "main.js": "/hubspot-pricing-page/static/js/main.eadf2404.js",
+    "static/js/787.32f45e95.chunk.js": "/hubspot-pricing-page/static/js/787.32f45e95.chunk.js",
+    "static/media/people-pictures.png": "/hubspot-pricing-page/static/media/people-pictures.e7c1f2f4e6cc6e39e7cb.png",
+    "static/media/AvenirNextLTPro-Bold.otf": "/hubspot-pricing-page/static/media/AvenirNextLTPro-Bold.711a4eb654bf1139f123.otf",
+    "static/media/AvenirNextLTPro-Regular.otf": "/hubspot-pricing-page/static/media/AvenirNextLTPro-Regular.94f2f163d4b698242fef.otf",
+    "static/media/AvenirNextLTPro-It.otf": "/hubspot-pricing-page/static/media/AvenirNextLTPro-It.3e062c6caf04ecafa42c.otf",
+    "index.html": "/hubspot-pricing-page/index.html",
+    "main.c628bda5.css.map": "/hubspot-pricing-page/static/css/main.c628bda5.css.map",
+    "main.eadf2404.js.map": "/hubspot-pricing-page/static/js/main.eadf2404.js.map",
+    "787.32f45e95.chunk.js.map": "/hubspot-pricing-page/static/js/787.32f45e95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c628bda5.css",
+    "static/js/main.eadf2404.js"
+  ]
+}
