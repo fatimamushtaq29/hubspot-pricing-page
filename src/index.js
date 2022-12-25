@@ -1,5 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import './fonts/AvenirNextLTPro-Regular.otf';
+import './fonts/AvenirNextLTPro-Bold.otf';
+import './fonts/AvenirNextLTPro-It.otf';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
